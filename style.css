@@ -1,0 +1,26 @@
+.repo-info li {
+  border: 2px solid whitesmoke;
+  list-style-type: none;
+  padding: 10px 5px;
+}
+/* .repo-info li p {
+  color: black;
+  font-size: 12px;
+} */
+.repo-info li a {
+  font-size: 32px;
+  text-decoration: none;
+}
+
+#profile {
+  margin: 30px;
+  font-size: 48px;
+}
+
+#profile img {
+  border-radius: 50%;
+  margin: 10px;
+}
+#profile a {
+  text-decoration: none;
+}
